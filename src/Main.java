@@ -1,3 +1,5 @@
+package src;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -63,6 +65,6 @@ public class Main {
 
         System.out.println(surgeon2.getClass());
 
-        System.out.println(surgeon2.makeIncision());
+        //System.out.println(surgeon2.makeIncision());
     }
 }
